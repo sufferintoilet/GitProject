@@ -1,2 +1,2 @@
 # GitProject
-I ate some rice tonigt
+I ate some rice tonight
